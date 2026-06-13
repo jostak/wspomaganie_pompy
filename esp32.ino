@@ -4,6 +4,7 @@
 #include <DallasTemperature.h>
 #include <ArduinoOTA.h>
 #include <HardwareSerial.h> 
+#include "config.h"
 
 
 
